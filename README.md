@@ -1,2 +1,2 @@
-# Online-Learning-Platform
+# Spotify Clone
 Making repository for learning Purpose
