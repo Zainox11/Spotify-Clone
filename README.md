@@ -1,2 +1,2 @@
 # Spotify Clone
-Making repository for learning Purpose
+Cloning Spotify For Semester Project
